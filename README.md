@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Sentiment Feedback Analysis System
 
 ## Overview
@@ -45,3 +46,6 @@ See `docs/architecture.md`
 - NLP topic extraction is currently rule-based. Advanced models could improve accuracy.
 - Authentication relies on simple JWT logic.
 - Built-in SQLite used for immediate run-ability instead of requiring full MySQL setup.
+=======
+# student-sentiment-feedback-analysis
+>>>>>>> b8e1af7b0b4fe0bfdfc6357d4011fde265675f27
